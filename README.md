@@ -8,6 +8,10 @@ The objective is not simply to produce a risk score.
 
 The objective is to make the reasoning behind the score **visible, explainable, evidence-driven, and actionable**.
 
+**Try it live (no download, no macros to enable):** [Open the Google Sheet →](https://docs.google.com/spreadsheets/d/1w8e0oGxdjswRoCfs2zpC4FjyjyRHSyUQp42TSzoTqqw/edit?usp=sharing)
+
+**Download the Excel version:** [`TPRM_risk-calculator.xlsx`](./TPRM_risk-calculator.xlsx)
+
 ---
 
 ## What This Project Demonstrates
@@ -289,12 +293,12 @@ A higher-risk vendor generally requires greater assurance and more frequent moni
 
 The calculator maps assessment outcomes to vendor tiers.
 
-| Vendor Tier | General Risk Profile | Typical Oversight |
-|---|---|---|
-| Tier 1 | Critical | Enhanced due diligence and close monitoring |
-| Tier 2 | High | Detailed due diligence and periodic monitoring |
-| Tier 3 | Moderate | Standard due diligence and scheduled review |
-| Tier 4 | Low | Proportionate / simplified due diligence |
+| Vendor Tier | Risk Rating | Due-Diligence Level | Monitoring Frequency |
+|---|---|---|---|
+| Tier 1 | Critical | Enhanced | Continuous / at least annual formal review |
+| Tier 2 | High | Detailed | Periodic review (semi-annual) |
+| Tier 3 | Moderate | Standard | Periodic review (annual) |
+| Tier 4 | Low / Low-Moderate | Simplified | Simplified / ad hoc review |
 
 The exact thresholds should be adapted to the organization's:
 
@@ -363,3 +367,4 @@ Residual Risk Assessment
 Risk Treatment / Decision
         ↓
 Ongoing Monitoring & Reassessment
+```
