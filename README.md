@@ -8,9 +8,29 @@ The objective is not simply to produce a risk score.
 
 The objective is to make the reasoning behind the score **visible, explainable, evidence-driven, and actionable**.
 
-**Try it live (no download, no macros to enable):** [Open the Google Sheet →](https://docs.google.com/spreadsheets/d/1w8e0oGxdjswRoCfs2zpC4FjyjyRHSyUQp42TSzoTqqw/edit?usp=sharing)
+**Try it live (no download, no macros to enable):** [Open the Google Sheet →](https://docs.google.com/spreadsheets/d/1bl1hgFhLjI8Sm18auMe6HGjDha1uOkOxb6hilwgT6iQ/edit?usp=sharing)
 
-**Download the Excel version:** [`TPRM_risk-calculator.xlsx`](./TPRM_risk-calculator.xlsx)
+**Download the Excel version:** [`TPRM_risk-calculator.xlsx`](./risk-calculator/TPRM_risk-calculator.xlsx)
+
+---
+
+## Screenshots
+
+**Assessment tab** — inputs, evidence guidance tied to real documents, and the override review section:
+
+![Assessment tab](./screenshots/assessment_tab.png)
+
+**Risk Calculation** — the formulas behind the score:
+
+![Risk Calculation](./screenshots/risk_calculation.png)
+
+**Client Summary** — the one-page rollup a client actually reads:
+
+![Client Summary](./screenshots/client_summary.png)
+
+**Residual Risk matrix** — inherent risk and control effectiveness combined into a final, defensible rating:
+
+![Residual Risk](./screenshots/residual_risk.png)
 
 ---
 
